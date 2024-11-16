@@ -1,6 +1,7 @@
+
 # AI Image Generation Program
 
-This repository contains code for an AI image generation program built in Python. Follow the instructions below to run the program either in Google Colab or locally on your machine.
+This repository contains code for an AI image generation program built in Python, based on a project from the YouTube channel [TechWithTim](https://www.youtube.com/c/TechWithTim). I’ve cloned the original repository and made some modifications to the `2-1.py` model code. Follow the instructions below to run the program either in Google Colab or locally on your machine.
 
 ## Running in Google Colab
 
@@ -52,13 +53,27 @@ To run the program locally, follow these steps:
    - Paste your access token when prompted.
 
 9. **Request Access to High End Models**
-   - Some mode;s require you accept their license agreements. If you plan to use the newest stable diffusion model you must accept the license [here](https://huggingface.co/stabilityai/stable-diffusion-3.5-large).
+   - Some models require you to accept their license agreements. If you plan to use the newest stable diffusion model, you must accept the license [here](https://huggingface.co/stabilityai/stable-diffusion-3.5-large).
 
 10. **Choose the Script to Run**:
    - You can choose to run either `2-1.py` or `3-5.py`:
-     - `2-1.py`: Suitable for most systems.
+     - `2-1.py`: Suitable for most systems (modified version).
      - `3-5.py`: Requires a high-end GPU and takes nearly 50 times longer to run.
 
-## Conclusion
+---
 
-Follow these steps to successfully set up and run the AI image generation program. If you encounter any issues, please refer to the documentation or open an issue in the repository.
+### About the Project
+
+This AI Image Generation program uses Stable Diffusion to generate images from text prompts. The project was originally created by *TechWithTim* (YouTube channel) and has been cloned and modified to improve the functionality of the `2-1.py` model.
+
+---
+
+### Summary of Changes
+
+- I made adjustments to the `2-1.py` model code, which includes [briefly describe the changes you made here].
+  
+---
+
+Feel free to update the "Summary of Changes" section with more specific details about the modifications you've made to the code.
+
+Let me know if you'd like further tweaks!
