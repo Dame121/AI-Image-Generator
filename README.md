@@ -70,10 +70,7 @@ This AI Image Generation program uses Stable Diffusion to generate images from t
 
 ### Summary of Changes
 
-- I made adjustments to the `2-1.py` model code, which includes [briefly describe the changes you made here].
+- I made adjustments to the `2-1.py` model code, which includes adding a GUI using customtkinter to run the 2_1 model so we can give our own prompts and it will generate an image.
   
 ---
 
-Feel free to update the "Summary of Changes" section with more specific details about the modifications you've made to the code.
-
-Let me know if you'd like further tweaks!
